@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Rainbow Jellyfish</title>
+<style>
+</style>
+</head>
+<body>
+<script>
+</script>
+<h1>Welcome to the Rainbow Jellyfish</h1>
+<!-- here is where the individual player/member will see his stats, overall, and for each individual game, along with awards, achievements and high scores -->
+<!-- this info is stored/updated through the database -->
+<!-- the dashboard also gives the players access to each game -->
+<!-- so, the dashboard is basically a gateway full of links and displays of dbase info -->
+
+<!-- this is the player stats header section -->
+<p>name</p>
+<p>status (free, bronze, silver, gold member)</p>
+<p>credits (this shows how many 'tokens' this member has purchased/won) </p>
+<p>awards</p>
+<p>achievements</p>
+<p>high scores</p>
+
+<!-- this is the game access section -->
+<p>craps</p>
+<p>gin rummy</p>
+<p>spades</p>
+<p>hangman</p>
+<p>pacman</p>
+<p>blackjack</p>
+<p>slots</p>
+<p>poker</p>
+<p>risk</p>
+<p>centipede</p>
+<p>bingo<p>
+
+<p>©2015 Wolfie World Entertainment</p>
+</body>
+</html>
