@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Rainbow Jellyfish</title>
+<style>
+</style>
+<body>
+<h2>Wolfie World Entertainment welcomes you to</h2>
+<h1>the Rainbow Jellyfish Casino</h1>
+<br><br><br>
+<!-- insert formatic diatribe here for password -->
+<!-- if password true, load dashboard -->
+<!-- if password false, repeat pass prompt -->
+<script>
+</script>
+</body>
+</html>
