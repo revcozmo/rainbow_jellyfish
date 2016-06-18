@@ -1,2 +1,3 @@
 # rainbow_jellyfish
 full scale casino website
+Use iframes to call all games for beta version...
